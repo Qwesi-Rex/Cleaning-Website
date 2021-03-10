@@ -8,6 +8,14 @@
     list-style: none; */
 }
 
+html,body{
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden;
+}
+  
+
 
 @font-face {
     font-family: 'icomoon';
